@@ -1,4 +1,4 @@
-## Simple one-day intership case study
+## Simple 1-day intership case study
 
 This is a game on unity that I have created in one day
 
